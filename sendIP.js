@@ -1,7 +1,7 @@
 var network = require('network');
 var hangoutsBot = require("hangouts-bot");
 var botName = "pibot"
-var zenith = new hangoutsBot('iscpibots@gmail.com','iscumd2016');
+var zenith = new hangoutsBot('iscpibots@gmail.com','********');
 var connect = 0;
 zenith.on('online',function(){
 
