@@ -1,0 +1,15 @@
+{
+  "name": "detectnetwork",
+  "version": "1.0.0",
+  "description": "send ip address on startup",
+  "main": "sendIP.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron Cofield",
+  "license": "ISC",
+  "dependencies": {
+    "hangouts-bot": "^0.2.1",
+    "network": "^0.3.2"
+  }
+}
